@@ -11,6 +11,5 @@ void test(int *array)
 int main() {
     char *a = "1 2 3 ";
     char b = '';
-    printf("%s", a);
     return 0;
 }
